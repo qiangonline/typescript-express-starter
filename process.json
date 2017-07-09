@@ -1,6 +1,6 @@
 {
   "apps": [{
-    "name": "cec-webapi",
+    "name": "typescript-express-starter",
     "script": "./dist/app.js",
     "env": {
       "NODE_ENV": "development"
